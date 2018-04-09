@@ -1,0 +1,13 @@
+
+img.resize
+{
+    max-width: 320;
+    max-height: 240;
+}
+
+table, th, td
+{
+    border-style: solid;
+    border-width: 1px;
+}
+
